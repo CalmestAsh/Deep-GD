@@ -1,0 +1,14 @@
+{
+	"geode": "4.5.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "calmestash.gd-ai",
+	"name": "GD-AI",
+	"version": "v1.0.0",
+	"developer": "CalmestAsh",
+	"description": "Geometry Dash AI"
+}
